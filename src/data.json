@@ -1,0 +1,62 @@
+[
+  {
+  "title": "Die Sonne ist ein Planet.",
+  "correct": false,
+  "id": 1,
+  "category": "Lernfeld-3"
+  },
+  {
+  "title": "E=mc^2 ist die berühmte Gleichung von Albert Einstein.",
+  "correct": true,
+  "id": 2,
+  "category": "Lernfeld-1"
+  },
+  {
+  "title": "Es gibt mehr Sterne im Universum als Sandkörner auf der Erde.",
+  "correct": true,
+  "id": 3,
+  "category": "Lernfeld-2"
+  },
+  {
+  "title": "Bananen sind Beeren.",
+  "correct": true,
+  "id": 4,
+  "category": "Lernfeld-2"
+  },
+  {
+  "title": "Der Mount Everest ist der höchste Berg der Welt.",
+  "correct": true,
+  "id": 5,
+  "category": "Lernfeld-3"
+  },
+  {
+  "title": "Wale sind Fische.",
+  "correct": false,
+  "id": 6,
+  "category": "Lernfeld-1"
+  },
+  {
+  "title": "Die chinesische Mauer ist vom Weltraum aus sichtbar.",
+  "correct": false,
+  "id": 7,
+  "category": "Lernfeld-2"
+  },
+  {
+  "title": "Menschen nutzen nur 10% ihres Gehirns.",
+  "correct": false,
+  "id": 8,
+  "category": "Lernfeld-3"
+  },
+  {
+  "title": "Honig verdirbt nie.",
+  "correct": true,
+  "id": 9,
+  "category": "Lernfeld-1"
+  },
+  {
+  "title": "Venus ist der zweite Planet im Sonnensystem.",
+  "correct": true,
+  "id": 10,
+  "category": "Lernfeld-2"
+  }
+  ]
